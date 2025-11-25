@@ -200,7 +200,7 @@ Add a `/images` folder with:
 - `06_Website_Performance.png`
 - `07_Chatbot_Performance.png`
 
-Use these for GitHub and LinkedIn.
+
 
 ---
 
