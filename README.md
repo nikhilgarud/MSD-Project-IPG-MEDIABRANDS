@@ -126,7 +126,7 @@ Core measures (examples):
   - Sentiment % (Positive / Neutral / Negative)
   - Repeat Rate for video completion. :contentReference[oaicite:16]{index=16}
 
-The `MSD_Technical_DAX_Guide.docx` in `/docs` contains the full DAX catalogue.
+
 
 ---
 
@@ -209,4 +209,4 @@ Use these for GitHub and LinkedIn.
 **Your Name – Power BI / Data Analyst**
 
 - Focus areas: Media Analytics, Power BI, DAX, SQL, Redshift
-- LinkedIn: _[add link here]_
+
